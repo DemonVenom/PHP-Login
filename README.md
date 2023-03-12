@@ -8,5 +8,5 @@ Code snippet demonstrating database knowledge within phpMyAdmin, password saniti
 
 ## **DEMO SCREENSHOTS** 
 
-![login screen demo image](https://github.com/DemonVenom/PHP-Login/lab11-5_demo_.gif)
+![login screen demo image](https://github.com/DemonVenom/PHP-Login/blob/main/lab11-5_demo_.gif)
 
